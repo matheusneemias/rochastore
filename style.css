@@ -2,7 +2,23 @@ nav li {
 	display:inline;
 	text-decoration: none;
 	text-transform: uppercase;
+    margin: 0, 25px, 0, 25px;
+	padding-right: 5%;
+    
+]
+
+nav {
+
 }
+
+nav a {
+	font-weight: lighter;
+	font-size: 35px;
+	text-decoration: none;
+	color: blue;
+}
+
+
 
 #banner {
 	width: 100%;
