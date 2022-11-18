@@ -8,7 +8,7 @@ nav li {
 ]
 
 nav {
-
+	width: 940px;
 }
 
 nav a {
@@ -16,6 +16,12 @@ nav a {
 	font-size: 35px;
 	text-decoration: none;
 	color: blue;
+
+
+}   
+nav a:hover {
+	color: red;
+	text-decoration: overline;
 }
 
 
